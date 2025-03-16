@@ -6,7 +6,7 @@ export default function Home() {
     <>
       Starter
 
-      <div className="flex justify-center items-center mt-20 bg-gray-100">
+      <div className="flex justify-center items-center mt-20 bg-gray-100 pt-10 pb-10">
         <CustomCalender />
       </div>
       
